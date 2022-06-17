@@ -1,6 +1,6 @@
 # Daz to ALSv4 AnimMan retarget -  UE5  -
 
- *IK rig / IK retarget for DAZ to Advance Locomotion System v4*
+ *IK rig / IK retarget for DAZ to Advance Locomotion System v4* currently female Skeleton only, will make male later
 
 1. Add these files to your content folder of your UE5 project via file explorer
  
